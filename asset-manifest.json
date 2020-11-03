@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/sharktech/static/css/main.2184cbd5.chunk.css",
+    "main.js": "/sharktech/static/js/main.e3c0f029.chunk.js",
+    "main.js.map": "/sharktech/static/js/main.e3c0f029.chunk.js.map",
+    "runtime-main.js": "/sharktech/static/js/runtime-main.f7906d08.js",
+    "runtime-main.js.map": "/sharktech/static/js/runtime-main.f7906d08.js.map",
+    "static/css/2.76715e59.chunk.css": "/sharktech/static/css/2.76715e59.chunk.css",
+    "static/js/2.915f58b7.chunk.js": "/sharktech/static/js/2.915f58b7.chunk.js",
+    "static/js/2.915f58b7.chunk.js.map": "/sharktech/static/js/2.915f58b7.chunk.js.map",
+    "index.html": "/sharktech/index.html",
+    "precache-manifest.5927c9cde8a39c2b80bac71c77f8e168.js": "/sharktech/precache-manifest.5927c9cde8a39c2b80bac71c77f8e168.js",
+    "service-worker.js": "/sharktech/service-worker.js",
+    "static/css/2.76715e59.chunk.css.map": "/sharktech/static/css/2.76715e59.chunk.css.map",
+    "static/css/main.2184cbd5.chunk.css.map": "/sharktech/static/css/main.2184cbd5.chunk.css.map",
+    "static/js/2.915f58b7.chunk.js.LICENSE.txt": "/sharktech/static/js/2.915f58b7.chunk.js.LICENSE.txt",
+    "static/media/SSD.png": "/sharktech/static/media/SSD.f8ddc045.png",
+    "static/media/auricular.png": "/sharktech/static/media/auricular.f7d7f03c.png",
+    "static/media/cpu.png": "/sharktech/static/media/cpu.33362528.png",
+    "static/media/discoduro.png": "/sharktech/static/media/discoduro.dca11334.png",
+    "static/media/diseño.svg": "/sharktech/static/media/diseño.daae9472.svg",
+    "static/media/gpu.png": "/sharktech/static/media/gpu.3839ca88.png",
+    "static/media/microfono.png": "/sharktech/static/media/microfono.b34d9c88.png",
+    "static/media/Inicio.css": "/sharktech/static/media/mockup.6076c72d.svg",
+    "static/media/monitor.png": "/sharktech/static/media/monitor.07c8f052.png",
+    "static/media/mouse.png": "/sharktech/static/media/mouse.76ebd980.png",
+    "static/media/pagos.svg": "/sharktech/static/media/pagos.ec6f4c28.svg",
+    "static/media/SliderReseñas.css": "/sharktech/static/media/perfil3.bd8198f6.jpg",
+    "static/media/placamadre.png": "/sharktech/static/media/placamadre.309cbbce.png",
+    "static/media/ram.png": "/sharktech/static/media/ram.58f5efd2.png",
+    "static/media/slick-theme.css": "/sharktech/static/media/slick.f97e3bbf.svg",
+    "static/media/teclado.png": "/sharktech/static/media/teclado.a6cdb417.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7906d08.js",
+    "static/css/2.76715e59.chunk.css",
+    "static/js/2.915f58b7.chunk.js",
+    "static/css/main.2184cbd5.chunk.css",
+    "static/js/main.e3c0f029.chunk.js"
+  ]
+}
