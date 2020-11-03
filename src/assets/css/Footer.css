@@ -1,0 +1,115 @@
+.footer-contenedor{
+    height: 40vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #1A2A2D;
+    flex-direction: column;
+
+}
+.informacion-contenedor{
+
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.informacion-contacto-contenedor{
+    
+    margin-right: 5vh;
+
+}
+.telefono{
+    color: white;
+    font-size: 0.8em;
+    font-weight: 200;
+    opacity: .7;
+}
+.direccion{
+    font-weight: 200;
+    opacity: .7;
+    color: white ;
+    font-size: 0.8em;
+}
+.telefono-titulo{
+    font-weight: 300;
+    opacity: .8;
+    color: white ;
+    font-size: 0.8em;
+}
+.direccion-titulo{
+    font-weight: 300;
+    opacity: .8;
+    color: white ;
+    font-size: 0.8em;
+}
+.copyright{
+
+    font-weight: 200;
+    opacity: .6;
+    color: white ;
+    font-size: 0.7em;
+
+}
+.descripcion-footer-contenedor{
+
+    text-align: center;
+    font-size: 0.8em;
+    width: 50%;
+    font-weight: 200;
+    color: white;
+    opacity: .7;
+
+    padding-bottom: 1vh;
+    border-bottom: solid rgba(255, 255, 255, 0.116) 0.1vh;
+    margin-bottom: 1vh;
+}
+@media only screen and (max-width: 1257px){
+    .copyright{
+        margin-top: 2vh;
+    }
+}
+@media only screen and (max-width: 640px){
+    .descripcion-footer-contenedor{
+
+        font-size: 0.7em;
+        width: 65%;
+
+    }
+
+}
+@media only screen and (max-width: 430px){
+    .descripcion-footer-contenedor{
+
+        font-size: 0.6em;
+        width: 75%;
+
+    }
+    .copyright{
+
+        font-size: 0.5em;
+
+    }
+    .direccion-titulo{
+
+        font-size: 0.65em;
+
+    }
+    .telefono-titulo{
+
+        font-size: 0.65em;
+
+    }
+    .direccion{
+
+        font-size: 0.65em;
+
+    }
+    .telefono{
+
+        font-size: 0.65em;
+
+    }
+}

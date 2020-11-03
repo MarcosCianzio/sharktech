@@ -1,0 +1,193 @@
+.slider-contenedor{
+    
+    margin-top: 10vh;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.Slider{
+
+    width: 90%;
+
+}
+.producto-contenedor{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row !important;
+    
+}
+.contenedor-nuestros-productos{
+
+    width: 100%;;
+    display: flex;
+    justify-content: center;
+
+}
+.nuestros-productos{
+
+    color: #1A2A2D;
+    font-weight: 400;
+
+}
+.producto{
+
+    border-radius: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    margin: 5vh;
+    width: 50vh;
+    height: 70vh;
+    -webkit-box-shadow: 0px 32px 72px -38px rgba(0,0,0,0.41);
+    -moz-box-shadow: 0px 32px 72px -38px rgba(0,0,0,0.41);
+    box-shadow: 0px 32px 72px -38px rgba(0,0,0,0.41);
+
+}
+img{
+    
+    height: 20vh;
+    width: 20vh;
+
+}
+.producto2-imagen{
+
+    width: 30vh;
+
+}
+.producto-nombre{
+
+    color: #1A2A2D;
+
+}
+
+
+.slick-prev:before,
+.slick-next:before {
+
+  color: #1A2A2D !important;
+
+}
+@media only screen and (max-width: 1300px){
+    .producto{
+        
+        margin: 4vh;
+        height: 50vh;
+
+    }
+    img{
+
+        height: 10vh;
+        width: 10vh;
+
+    }
+    .producto2-imagen{
+
+    
+        width: 20vh;
+
+    }
+    .producto-nombre{
+
+        font-size: 1.2em;
+    }
+}
+@media only screen and (max-width: 1000px){
+    .producto{
+        margin: 3vh;
+        height: 35vh;
+
+    }
+    .producto2-imagen{
+
+        width: 15vh;
+
+    }
+}
+@media only screen and (max-width: 860px){
+    .producto{
+
+        height: 30vh;
+    
+    }
+    .producto-nombre{
+        
+        font-size: 0.8em;
+        
+    }
+    .producto2-imagen{
+
+        width: 15vh;
+
+    }
+    img{
+
+        height: 10vh;
+        width: 10vh;
+
+    }
+
+}
+@media only screen and (max-width: 770px){
+    .producto{
+
+        margin: 2vh;
+        height: 30vh;
+    
+    }
+    .producto-nombre{
+        
+        font-size: 0.6em;
+        
+    }
+    img{
+
+        height: 8vh;
+        width: 8vh;
+
+    }
+    .producto2-imagen{
+
+        width: 10vh;
+
+    }
+}
+@media only screen and (max-width: 510px){
+
+    .producto{
+
+        margin: 1.5vh;
+        height: 20vh;
+        width: 10vh;
+    
+    }
+    .producto-nombre{
+        
+        font-size: 0.4em;
+        
+    }
+    img{
+
+        height: 7vh;
+        width: 7vh;
+
+    }
+    .producto2-imagen{
+
+        width: 8vh;
+
+    }
+    .slick-prev:before,
+    .slick-next:before {
+
+        visibility: hidden;
+
+    }
+   
+}
