@@ -1,6 +1,6 @@
 .slider-contenedor{
     
-    margin-top: 10vh;
+    margin-top: 20vh;
     width: 100%;
 
     display: flex;
@@ -12,6 +12,7 @@
 .Slider{
 
     width: 90%;
+    margin-top: 3vh;
 
 }
 .producto-contenedor{
@@ -28,10 +29,34 @@
     justify-content: center;
 
 }
+.contenedor-informacion-productos{
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+
+}
 .nuestros-productos{
 
+    color: #2c3e50;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Poppins Medium';
+
+}
+.descripcion-nuestros-productos{
+
+
+    width: 50%;
+    font-size: 1em;
+    font-weight: 300;
+    margin-top: 3vh;
     color: #1A2A2D;
-    font-weight: 400;
+    opacity: .6;
 
 }
 .producto{
@@ -63,6 +88,8 @@ img{
 }
 .producto-nombre{
 
+    margin-top: 0.5vh;
+    font-weight: 300;
     color: #1A2A2D;
 
 }

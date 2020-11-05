@@ -8,9 +8,14 @@ export default class SliderView extends React.Component {
         return (
             <div className = "slider-contenedor">
                 <div className = 'contenedor-nuestros-productos'>
-                    <h2 className = 'nuestros-productos'>
-                        Nuestros productos
-                    </h2>
+                    <div className = 'contenedor-informacion-productos'>
+                        <h2 className = 'nuestros-productos'>
+                            Nuestros productos
+                        </h2>
+                        <h2 className = 'descripcion-nuestros-productos'>
+                            No te desesperes buscando, tenemos a disposición una alta variedad de périfericos informaticos, con gran cantida de stock. Entre ellos, podemos encontrar mouses, monitores, auriculares, microfonos, y todo lo relacionado al hardware.
+                        </h2>
+                    </div>
                 </div>
                 <Slider className ='Slider'
                 speed = {500}
@@ -106,11 +111,11 @@ export default class SliderView extends React.Component {
                     <div className="Slider3">
                         <div className="producto-contenedor">
                             <div className = 'producto1 producto'>
-                                <img className = 'producto1-imagen' src = {require("../assets/images/auricular.png")}>
+                                <img className = 'producto1-imagen' src = {require("../assets/images/fuente.png")}>
 
                                 </img>
                                 <h2 className = 'producto-nombre'>
-                                    Auricular
+                                    Fuente
                                 </h2>
                             </div>
                             <div className = 'producto2 producto'>

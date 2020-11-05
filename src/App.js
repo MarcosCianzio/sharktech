@@ -5,7 +5,9 @@ import Pagos from './components/Pagos';
 import Diseño from './components/Diseño';
 import SliderReseñas from './components/SliderReseñas';
 import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 
+import './assets/css/Navbar.css';
 import './assets/css/Footer.css';
 import './assets/css/SliderReseñas.css';
 import './assets/css/Diseño.css';
@@ -19,6 +21,7 @@ import "slick-carousel/slick/slick-theme.css";
 function App() {
   return (
     <div className="App">
+      <Navbar/>
       <Inicio/>
       <SliderView/>
       <Pagos/>

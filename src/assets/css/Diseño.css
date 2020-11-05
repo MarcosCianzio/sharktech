@@ -28,10 +28,11 @@
 }
 .informacion-diseño-titulo{
     
-    color: #1A2A2D;
+    color: #2c3e50;
     font-size: 2.0em;
     width: 54vh;
     margin-bottom: 2vh;
+    font-family: 'Poppins Medium';
 
 }
 .informacion-diseño-descripcion{
@@ -105,12 +106,12 @@
     }
     .informacion-diseño-titulo{
     
-        font-size: 1.0em;
+        font-size: 1.3em;
     
     }
     .informacion-diseño-descripcion{
 
-        font-size: 0.6em;
+        font-size: 0.8em;
 
     }
 

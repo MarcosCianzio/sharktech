@@ -1,3 +1,9 @@
+.contenedor-padre-pagos{
+
+    display: flex;
+    flex-direction: column;
+
+}
 .contenedor-pagos{
 
     margin-top: 15vh;
@@ -29,10 +35,12 @@
 }
 .informacion-pagos-titulo{
     
-    color: #1A2A2D;
+    color: #2c3e50;
     font-size: 2.0em;
     width: 54vh;
     margin-bottom: 2vh;
+    font-weight: bold;
+    font-family: 'Poppins Medium';
 
 }
 .informacion-pagos-descripcion{
@@ -41,6 +49,18 @@
     color: #1A2A2D;
     opacity: .6;
     font-weight: 300;
+}
+.contenedor-tarjetas{
+
+    display: flex;
+    justify-content: center;
+
+}
+.tarjeta{
+
+    height: 2vh;
+    opacity: .8;
+
 }
 @media only screen and (max-width: 1024px){
 
@@ -104,13 +124,16 @@
     }
     .informacion-pagos-titulo{
     
-        font-size: 1.0em;
+        font-size: 1.3em;
     
     }
     .informacion-pagos-descripcion{
 
-        font-size: 0.6em;
+        font-size: 0.8em;
 
+    }
+    .contenedor-tarjetas{
+        margin-top: 8vh;
     }
 
 }

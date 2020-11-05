@@ -1,23 +1,47 @@
-.slider-contenedor{
+.slider-contenedor-reseñas{
 
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 
-    margin-top: 10vh;
+    
     width: 100%;
     
+    margin-top: 30vh;
+
+}
+.contenedor-información-reseñas{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+
 }
 .reseñas{
-    
-    color: #1A2A2D;
-    font-weight: 400;
+
+    color: #2c3e50;
+    font-weight: bold;
+    font-size: 2em;
+    font-family: 'Poppins Medium';
 
 }
-.Slider{
+.descripcion-reseñas{
 
-    margin-top: 15vh;
+    width: 50%;
+    font-size: 1em;
+    font-weight: 300;
+    margin-top: 3vh;
+    color: #1A2A2D;
+    opacity: .6;
+
+}
+.Slider-reseñas{
+
+    margin-top: 10vh;
     width: 90%;
 
 }

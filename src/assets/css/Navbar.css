@@ -1,0 +1,18 @@
+.nav{
+
+    height: 6.5vh;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F5F5;
+
+    position: absolute;
+
+}
+.logo{
+
+    height: 8vh;
+
+}

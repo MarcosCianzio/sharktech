@@ -8,14 +8,17 @@ class SliderReseñas extends React.Component {
     render() {
         return(
 
-            <div className = 'slider-contenedor'>
-                <div className = 'reseñas-contenedor'>
+            <div className = 'slider-contenedor-reseñas'>
+                <div className = 'contenedor-información-reseñas'>
                     <h2 className = 'reseñas'>
-                        Algunas reseñas
+                         Algunas reseñas
+                    </h2>
+                    <h2 className = 'descripcion-reseñas'>
+                        Algunas palabras validando y apoyando a Sharktech son de mucha ayuda. Tenemos el gusto de compartirlas con nuestro público.
                     </h2>
                 </div>
                 <Slider
-                className ='Slider'
+                className ='Slider-reseñas'
                 speed = {500}
                 slidesToShow = {1}
                 slidesToScroll = {1}
