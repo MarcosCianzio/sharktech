@@ -113,3 +113,43 @@
 
     }
 }
+@media only screen and (max-width: 550px){
+    .footer-contenedor{
+        margin-top: 4vh;
+    }
+}
+@media only screen and (max-height: 670px){
+
+    .descripcion-footer-contenedor{
+
+        font-size: 0.3em;
+        width: 75%;
+
+    }
+    .copyright{
+
+        font-size: 0.3em;
+
+    }
+    .direccion-titulo{
+
+        font-size: 0.4em;
+
+    }
+    .telefono-titulo{
+
+        font-size: 0.4em;
+
+    }
+    .direccion{
+
+        font-size: 0.3em;
+
+    }
+    .telefono{
+
+        font-size: 0.3em;
+
+    }
+
+}

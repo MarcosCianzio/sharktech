@@ -116,4 +116,21 @@
     }
 
 }
+@media only screen and (max-height: 670px){
+    .informacion-diseño-descripcion{
+
+        font-size: 0.6em;
+
+    }
+    .contenedor-diseño{
+        margin-top: 6vh;
+    }
+}
+@media only screen and (max-height: 670px){
+
+    .contenedor-diseño{
+        margin-top: 20vh;
+    }
+
+}
 

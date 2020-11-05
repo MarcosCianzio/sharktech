@@ -177,6 +177,36 @@
     
     }
 }
+@media only screen and (max-width: 1024px){
+    .reseñas{
+    
+        font-size: 1.4em;
+    
+    }
+    .descripcion-reseñas{
+    
+        font-size: 0.9em;
+    
+    }
+}
+@media only screen and (max-width: 630px){
+    .reseñas{
+    
+        font-size: 1.2em;
+    
+    }
+    .descripcion-reseñas{
+    
+        font-size: 0.8em;
+    
+    }
+}
+@media only screen and (max-width: 550px){
+    .reseñas{
+    
+        font-size: 1.3em;
+    }
+}
 @media only screen and (max-width: 1110px){
     .reseña{
 
@@ -328,5 +358,33 @@
         margin-top: 4vh;
     
     }
+
+}
+@media only screen and (max-height: 670px){
+    .reseña{
+
+        height: 23vh;
+
+    }
+    .descripcion{
+
+        font-size: 0.02em;
+
+    }
+    .nombre-usuario{
+        font-size: 0.3em;
+    }
+    .Slider-reseñas{
+
+        margin-top: 4vh;
+    }
+}
+@media only screen and (max-height: 670px){
+
+    .slider-contenedor-reseñas{
+
+        margin-top: 35vh;
+    
+        }
 
 }
