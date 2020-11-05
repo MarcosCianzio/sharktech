@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d55fee5735bfdcc5b005382af7ade6e",
+    "revision": "6f8e311491f0a761bb5430f5564be3f2",
     "url": "/sharktech/index.html"
   },
   {
-    "revision": "3cafc6a24cfcc5518e90",
+    "revision": "f50e6a0e9e37888f45a5",
     "url": "/sharktech/static/css/2.76715e59.chunk.css"
   },
   {
-    "revision": "7bb6f41ffa00209479b5",
-    "url": "/sharktech/static/css/main.2184cbd5.chunk.css"
+    "revision": "87e8ea6ec9e2bd7ed0a6",
+    "url": "/sharktech/static/css/main.660002ce.chunk.css"
   },
   {
-    "revision": "3cafc6a24cfcc5518e90",
-    "url": "/sharktech/static/js/2.915f58b7.chunk.js"
+    "revision": "f50e6a0e9e37888f45a5",
+    "url": "/sharktech/static/js/2.f0828dcc.chunk.js"
   },
   {
     "revision": "8a137f586fcebb1a370343eb47b7677c",
-    "url": "/sharktech/static/js/2.915f58b7.chunk.js.LICENSE.txt"
+    "url": "/sharktech/static/js/2.f0828dcc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bb6f41ffa00209479b5",
-    "url": "/sharktech/static/js/main.e3c0f029.chunk.js"
+    "revision": "87e8ea6ec9e2bd7ed0a6",
+    "url": "/sharktech/static/js/main.071cc297.chunk.js"
   },
   {
     "revision": "535b414b18514d14159b",
@@ -48,16 +48,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sharktech/static/media/diseño.daae9472.svg"
   },
   {
+    "revision": "ea755f68bbe5e9c218163419f1cb0456",
+    "url": "/sharktech/static/media/fuente.ea755f68.png"
+  },
+  {
     "revision": "3839ca88aa47913dedd18dde6da0a9da",
     "url": "/sharktech/static/media/gpu.3839ca88.png"
   },
   {
-    "revision": "b34d9c88c90cc8dc25ce5a88b5c338aa",
-    "url": "/sharktech/static/media/microfono.b34d9c88.png"
+    "revision": "edc8ab5321351ca07c4a8fe147b0595e",
+    "url": "/sharktech/static/media/inicio.edc8ab53.svg"
   },
   {
-    "revision": "6076c72d16f9f7ae6da02b9e6743461a",
-    "url": "/sharktech/static/media/mockup.6076c72d.svg"
+    "revision": "4f8b750598892dc717dc240a12cd6751",
+    "url": "/sharktech/static/media/itau.4f8b7505.svg"
+  },
+  {
+    "revision": "3793c65f1f4033a2c321ed7be3fdb84a",
+    "url": "/sharktech/static/media/mastercard.3793c65f.svg"
+  },
+  {
+    "revision": "b34d9c88c90cc8dc25ce5a88b5c338aa",
+    "url": "/sharktech/static/media/microfono.b34d9c88.png"
   },
   {
     "revision": "07c8f0529da433d293e6ebb3e674032b",
@@ -92,6 +104,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sharktech/static/media/ram.58f5efd2.png"
   },
   {
+    "revision": "746c687998e52f5673ad31de5183df60",
+    "url": "/sharktech/static/media/sharktech.746c6879.svg"
+  },
+  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/sharktech/static/media/slick.b7c9e1e4.woff"
   },
@@ -110,5 +126,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6cdb4171406c254ebc2c47fec04ebdc",
     "url": "/sharktech/static/media/teclado.a6cdb417.png"
+  },
+  {
+    "revision": "e21eb77111f4a8d603cf53a6c1fdafca",
+    "url": "/sharktech/static/media/visa.e21eb771.svg"
   }
 ]);
