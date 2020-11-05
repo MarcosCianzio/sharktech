@@ -19,9 +19,7 @@ class Pagos extends React.Component{
                         <h2 className = 'informacion-pagos-descripcion'>
                             Incluimos una gran variedad de metodos de pago, además de un servicio de transacciones completamente seguro y cifrado. Realiza todas las operaciones que desees con tu <b> tarjeta </b> desde la comodidad de tu hogar, con la mayor seguridad.
                         </h2>
-                    </div>
-                </div>
-                <div className = 'contenedor-tarjetas'> 
+                        <div className = 'contenedor-tarjetas'> 
                     <img className = 'tarjeta' src = {require("../assets/images/mastercard.svg")}>
                     
                     </img>
@@ -32,6 +30,9 @@ class Pagos extends React.Component{
                     
                     </img>
                 </div>
+                    </div>
+                </div>
+              
             </div>
 
         );

@@ -53,13 +53,17 @@
 .contenedor-tarjetas{
 
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    margin-top: 2vh;
+    align-items: center;
+    width: 100%;
 
 }
 .tarjeta{
 
     height: 2vh;
-    opacity: .8;
+    opacity: .7;
+    width: 5vh;
 
 }
 @media only screen and (max-width: 1024px){
@@ -133,7 +137,6 @@
 
     }
     .contenedor-tarjetas{
-        margin-top: 8vh;
     }
 
 }

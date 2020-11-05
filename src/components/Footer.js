@@ -8,12 +8,12 @@ class Footer extends React.Component{
             <div className = 'footer-contenedor'>
                 <div className = 'descripcion-footer-contenedor'>
                 * El uso de nuestra aplicación es completamente gratuito. Se cobraran costos a partir de las compras realizadas. Sujeto a restricciones y otros términos.
-                 Sujeto a restricciones y otros términos. Los precios están expresados en dólares estadounidenses y pueden variar por país. Se requiere una tarjeta de crédito internacional para completar la suscripción.
+                Los precios dentro de la aplicación están expresados en pesos uruguayos. Se requiere una tarjeta de crédito internacional o local para las transacciones.
                 </div>
                 <div className = 'informacion-contenedor'>
                     <div className = 'informacion-contacto-contenedor'>
                         <h2 className = 'telefono-titulo'>
-                            Contactanos a
+                           Para proveedores, nuestro telefono
                         </h2>
                         <h2 className = 'telefono'>
                             Tel. 4532757
@@ -21,10 +21,13 @@ class Footer extends React.Component{
                     </div>
                     <div className = 'informacion-direccion-contenedor'>
                     <h2 className = 'direccion-titulo'>
-                           Encuentranos en
+                           Encuentranos en nuestro local
                         </h2>
                         <h2 className = 'direccion'>
                             Mercedes, Uruguay
+                        </h2>
+                        <h2 className = 'direccion'>
+                            Sanchez 502
                         </h2>
                     </div>
 
