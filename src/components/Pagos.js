@@ -13,6 +13,7 @@ class Pagos extends React.Component{
                         </img>
                     </div>
                     <div className = 'informacion-pagos-contenedor'>
+
                         <h2 className = 'informacion-pagos-titulo'>
                             Excelentes metodos de pagos
                         </h2>

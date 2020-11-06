@@ -153,3 +153,11 @@
     }
 
 }
+@media only screen and (max-height: 580px){
+    .footer-contenedor{
+        
+        margin-top: 12vh;
+
+    }
+
+}

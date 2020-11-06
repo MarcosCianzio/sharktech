@@ -23,6 +23,7 @@
 }
 .reseñas{
 
+
     color: #2c3e50;
     font-weight: bold;
     font-size: 2em;
@@ -41,7 +42,7 @@
 }
 .Slider-reseñas{
 
-    margin-top: 10vh;
+    margin-top: 5vh;
     width: 90%;
 
 }
@@ -383,8 +384,16 @@
 
     .slider-contenedor-reseñas{
 
-        margin-top: 35vh;
+        margin-top: 26vh;
     
         }
+
+}
+@media only screen and (max-height: 580px){
+    .slider-contenedor-reseñas{
+        
+        margin-top: 40vh;
+
+    }
 
 }

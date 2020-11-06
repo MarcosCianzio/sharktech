@@ -21,7 +21,7 @@
 }
 .informacion-diseño-contenedor{
 
-    width: 30%;
+    width: 50%;
     display: flex;
     flex-wrap: wrap;
     
@@ -111,17 +111,12 @@
     }
     .informacion-diseño-descripcion{
 
-        font-size: 0.8em;
+        font-size: 0.85em;
 
     }
 
 }
 @media only screen and (max-height: 670px){
-    .informacion-diseño-descripcion{
-
-        font-size: 0.6em;
-
-    }
     .contenedor-diseño{
         margin-top: 6vh;
     }
@@ -129,7 +124,7 @@
 @media only screen and (max-height: 670px){
 
     .contenedor-diseño{
-        margin-top: 20vh;
+        margin-top: 15vh;
     }
 
 }

@@ -28,7 +28,7 @@
 }
 .informacion-pagos-contenedor{
 
-    width: 30%;
+    width: 50%;
     display: flex;
     flex-wrap: wrap;
     
@@ -133,17 +133,15 @@
     }
     .informacion-pagos-descripcion{
 
-        font-size: 0.8em;
+        font-size: 0.85em;
 
-    }
-    .contenedor-tarjetas{
     }
 
 }
 @media only screen and (max-height: 670px){
     .informacion-pagos-descripcion{
 
-        font-size: 0.6em;
+        font-size: 0.9em;
 
     }
     .contenedor-padre-pagos{
@@ -152,12 +150,11 @@
 
     }
 }
-@media only screen and (max-height: 670px){
-
+@media only screen and (max-height: 580px){
     .contenedor-padre-pagos{
+        
+    margin-top: 35vh;
 
-        margin-top: 35vh;
-    
-        }
+    }
 
 }

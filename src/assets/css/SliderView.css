@@ -105,19 +105,18 @@ img{
     .producto{
         
         margin: 4vh;
-        height: 50vh;
+        height: 70vh;
 
     }
     img{
 
-        height: 10vh;
-        width: 10vh;
+        height: 15vh;
+        width: 15vh;
 
     }
     .producto2-imagen{
 
-    
-        width: 20vh;
+        width: 25vh;
 
     }
     .producto-nombre{
@@ -128,7 +127,7 @@ img{
 @media only screen and (max-width: 1000px){
     .producto{
         margin: 3vh;
-        height: 35vh;
+        height: 50vh;
 
     }
     .producto2-imagen{
@@ -138,11 +137,6 @@ img{
     }
 }
 @media only screen and (max-width: 860px){
-    .producto{
-
-        height: 30vh;
-    
-    }
     .producto-nombre{
         
         font-size: 0.8em;
@@ -165,7 +159,6 @@ img{
     .producto{
 
         margin: 2vh;
-        height: 30vh;
     
     }
     .producto-nombre{
@@ -190,8 +183,8 @@ img{
     .producto{
 
         margin: 1.5vh;
-        height: 20vh;
-        width: 10vh;
+        height: 35vh;
+        width: 15vh;
     
     }
     .producto-nombre{
@@ -249,13 +242,13 @@ img{
     }
 
 }
-@media only screen and (max-height: 670px){
+@media only screen and (max-height: 500px){
 
     .descripcion-nuestros-productos{
 
-        font-size: 0.6em;
-
+        font-size: 0.7em;
+        
     }
-    
+
     
 }
