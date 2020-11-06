@@ -128,4 +128,13 @@
     }
 
 }
+@media only screen and (max-width: 400px){
+
+    .contenedor-diseño{
+
+        margin-top: 15vh;
+    
+        }
+
+}
 

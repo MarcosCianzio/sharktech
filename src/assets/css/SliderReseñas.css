@@ -8,7 +8,7 @@
     
     width: 100%;
     
-    margin-top: 30vh;
+    margin-top: 10vh;
 
 }
 .contenedor-información-reseñas{
@@ -206,7 +206,14 @@
     .reseñas{
     
         font-size: 1.3em;
+
     }
+}
+@media only screen and (max-width: 400px){
+
+
+    
+
 }
 @media only screen and (max-width: 1110px){
     .reseña{
