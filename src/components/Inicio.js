@@ -17,7 +17,7 @@ class Inicio extends React.Component{
                 </div>
                 <div className = 'subtitulo-contenedor'>
                     <h2 className = 'subtitulo'>
-                        Te brindamos una gran cantidad de perifericos informaticos
+                        Te brindamos una gran cantidad de periféricos informáticos
                     </h2>
                 </div>
             </div>

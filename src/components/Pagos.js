@@ -15,10 +15,10 @@ class Pagos extends React.Component{
                     <div className = 'informacion-pagos-contenedor'>
 
                         <h2 className = 'informacion-pagos-titulo'>
-                            Excelentes metodos de pagos
+                            Excelentes métodos de pagos
                         </h2>
                         <h2 className = 'informacion-pagos-descripcion'>
-                            Incluimos una gran variedad de metodos de pago, además de un servicio de transacciones completamente seguro y cifrado. Realiza todas las operaciones que desees con tu <b> tarjeta </b> desde la comodidad de tu hogar, con la mayor seguridad.
+                            Incluimos una gran variedad de métodos de pago, además de un servicio de transacciones completamente seguro y cifrado. Realiza todas las operaciones que desees con tu <b> tarjeta </b> desde la comodidad de tu hogar, con la mayor seguridad.
                         </h2>
                         <div className = 'contenedor-tarjetas'> 
                     <img className = 'tarjeta' src = {require("../assets/images/mastercard.svg")}>

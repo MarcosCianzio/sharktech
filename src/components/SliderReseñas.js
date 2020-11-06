@@ -11,7 +11,7 @@ class SliderReseñas extends React.Component {
             <div className = 'slider-contenedor-reseñas'>
                 <div className = 'contenedor-información-reseñas'>
                     <h2 className = 'reseñas'>
-                         Algunas reseñas
+                         Reseñas
                     </h2>
                     <h2 className = 'descripcion-reseñas'>
                         Algunas palabras validando y apoyando a Sharktech son de mucha ayuda. Tenemos el gusto de compartirlas con nuestro público.
@@ -40,7 +40,7 @@ class SliderReseñas extends React.Component {
                             </div>
                             <div className = 'reseña-descripcion-contenedor'>
                                 <h2 className = 'descripcion'>
-                                    Buen producto, tiene cositas, pueder ser pa? anashe
+                                    Destaco que la página web no utiliza tablas.
                                 </h2>
                             </div>  
                         </div>
@@ -57,7 +57,7 @@ class SliderReseñas extends React.Component {
                             </div>
                             <div className = 'reseña-descripcion-contenedor'>
                                 <h2 className = 'descripcion'>
-                                    Me facilito muchos aspectos de mi vida diaria
+                                    Comprar nunca ha sido tan fácil.
                                 </h2>
                             </div>  
                         </div>
@@ -74,7 +74,7 @@ class SliderReseñas extends React.Component {
                             </div>
                             <div className = 'reseña-descripcion-contenedor'>
                                 <h2 className = 'descripcion'>
-                                    Altamente recomendado pa, ninguna queja especifica
+                                    Su diseño me ha dejado atrapado completamente.
                                 </h2>
                             </div>  
                         </div>

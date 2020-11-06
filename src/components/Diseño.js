@@ -11,7 +11,7 @@ class Diseño extends React.Component{
                         Un diseño moderno
                     </h2>
                     <h2 className = 'informacion-diseño-descripcion'>
-                       Nuestro programa cuenta con un diseño moderno, lejos de los tipicos que hacen parecer que estamos en el año 2007. Simple y sencillo de usar, olvidaté de los aburridos y grises locales.
+                        Nuestro programa cuenta con un diseño moderno, muy lejos de los típicos que asemejan al año 2007. Simple y sencillo de usar, olvídate de los aburridos y grises locales. Cabe destacar, nuestra página web no posee tablas, las cuales son completamente obsoletas para el año en el que vivimos.
                     </h2>
                 </div>
                 <div className = 'diseño-imagen-contenedor'>

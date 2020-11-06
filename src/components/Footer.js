@@ -13,7 +13,7 @@ class Footer extends React.Component{
                 <div className = 'informacion-contenedor'>
                     <div className = 'informacion-contacto-contenedor'>
                         <h2 className = 'telefono-titulo'>
-                           Para proveedores, nuestro telefono
+                           A cualquier consulta,
                         </h2>
                         <h2 className = 'telefono'>
                             Tel. 4532757

@@ -13,7 +13,7 @@ export default class SliderView extends React.Component {
                             Nuestros productos
                         </h2>
                         <h2 className = 'descripcion-nuestros-productos'>
-                            No te desesperes buscando, tenemos a disposición una alta variedad de périfericos informaticos, con gran cantida de stock. Entre ellos, podemos encontrar mouses, monitores, auriculares, microfonos, y todo lo relacionado al hardware.
+                            No te desesperes buscando, tenemos a disposición una alta variedad de periféricos informáticos, con gran cantidad de stock. Entre ellos, podemos encontrar mouses, monitores, auriculares, micrófonos, y todo lo relacionado al hardware.
                         </h2>
                     </div>
                 </div>
@@ -47,7 +47,7 @@ export default class SliderView extends React.Component {
                                     
                                 </img>
                                 <h2 className = 'producto-nombre'>
-                                    Microfono
+                                    Micrófono
                                 </h2>
                             </div>
                         </div>
